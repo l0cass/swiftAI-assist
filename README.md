@@ -13,7 +13,7 @@
 ### Bibliotecas usadas:
 > <a href="https://docs.python.org/3/library/os.html">OS</a>, para deletar arquivos
 >
-> <a href="https://pypi.org/project/playsound/">Playsound</a>, par executar .mp3
+> <a href="https://pypi.org/project/playsound/">Playsound</a>, para executar .mp3
 >
 > <a href="https://pypi.org/project/gTTS/">gTTS</a>, para criar .mp3
 >
@@ -29,6 +29,6 @@
 >
 > MacOS: <code> $ python main.py</code>
 >
-> Windows: <code> python main.py</code>
+> Windows: <code>$ python main.py</code>
 <br></br>
 #### Tempo gasto para estudo e desenvolvimento <code>5hrs10m</code>
