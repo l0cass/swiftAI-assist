@@ -1,4 +1,4 @@
-# AssistenteVirtual
+# Assistente Virtual
 
 ### Funcionalidades:
 - Cotação do Dólar e Euro em tempo real
